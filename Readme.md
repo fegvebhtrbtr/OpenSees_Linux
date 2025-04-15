@@ -1,6 +1,6 @@
-# OpenSees 预编译版本（Linux）
+# OpenSees 3.5.1 预编译版本（Linux 64-bit）
 
-本项目提供 OpenSees（Open System for Earthquake Engineering Simulation）在 Linux 系统下的预编译二进制版本，适用于无需手动编译源码即可快速部署使用。
+本项目提供 OpenSees（Open System for Earthquake Engineering Simulation）**3.5.1 版本** 在 Linux 系统下的预编译二进制文件，包含主程序与相关静态链接库，适用于科研人员快速部署与运行地震模拟分析。
 
 ---
 
@@ -117,6 +117,17 @@ chmod +x bin/OpenSees
 本项目仅封装 OpenSees 可执行程序，遵循原 OpenSees 项目的开源协议（BSD License）。
 
 OpenSees 官网：https://opensees.berkeley.edu/
+
+---
+
+## 🧾 版本信息
+
+- OpenSees 版本：**3.5.1**
+- 架构：**64-bit**
+- 编译平台：Linux
+- 官方地址：[https://opensees.berkeley.edu](https://opensees.berkeley.edu)
+
+该版本由官方源码编译，包含常用数值库（Blas、Lapack、Arpack、SuperLU、Metis 等）。
 
 ---
 
