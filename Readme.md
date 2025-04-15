@@ -67,8 +67,8 @@ sudo apt update sudo apt install -y libgfortran5 libtcl8.6 libtk8.6`
 
 ### 1. 克隆仓库或下载 release
 ```bash
-git clone https://github.com/fegvebhtrbtr/OpenSees_Ubuntu.git
-cd OpenSees_Ubuntu
+git clone https://github.com/fegvebhtrbtr/OpenSees_Linux.git
+cd OpenSees_Linux
 ```
 
 ### 2. 运行 OpenSees
